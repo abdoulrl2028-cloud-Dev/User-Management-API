@@ -1,0 +1,8 @@
+{
+  "name": "user-management-api",
+  "description": "User Management API com Django REST Framework",
+  "version": "1.0.0",
+  "engines": {
+    "python": "3.11.7"
+  }
+}
